@@ -744,6 +744,7 @@ footer{
         display: flex;
         flex-direction: column;
         width: 100%;
+        padding: 1rem;
     }
     .box-productos a{
         width: 100%;
